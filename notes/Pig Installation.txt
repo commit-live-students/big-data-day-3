@@ -1,0 +1,4 @@
+export PIG_HOME=/usr/local/pig
+export PATH=$PIG_HOME/bin:$PATH
+export PIG_CLASSPATH=$HADOOP_HOME/conf
+export HADOOP_USER_CLASSPATH_FIRST=true
