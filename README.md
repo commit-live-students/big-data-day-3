@@ -12,6 +12,9 @@ Before this lesson, we recommend you go through
 * Extending PIG where required to achieve different objectives
 *	Running and Executing a PIG script
 
+## Notes
+[Notes](https://github.com/commit-live-students/big-data-day-3/tree/master/notes)
+
 ## Agenda
 * Why we need Pig
 * Pig v/s Mapreduce
